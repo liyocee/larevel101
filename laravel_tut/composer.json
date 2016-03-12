@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "laravel/laravel101",
+    "description": "Getting started with laravel PHP framework",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
